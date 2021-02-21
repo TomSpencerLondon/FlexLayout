@@ -36,7 +36,7 @@ header {
 }
 
 .rightContent2 {
-    flex-grow: 1;
+    min-width: 40%;
 }
 
 .rightContent3 {
