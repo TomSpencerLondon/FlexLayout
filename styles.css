@@ -32,13 +32,13 @@ header {
 }
 
 .rightContent1 {
-    flex-shrink: 1;
+    width: 30%;
 }
 
 .rightContent2 {
-    min-width: 40%;
+    width: 40%;
 }
 
 .rightContent3 {
-    flex-shrink: 1;
+    width: 30%;
 }
